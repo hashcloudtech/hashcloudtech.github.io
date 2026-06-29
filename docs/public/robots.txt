@@ -1,0 +1,62 @@
+# https://www.hashcloud.cn/robots.txt
+# 哈希云图信息科技有限公司 — 爬虫规则
+# 最后更新：2025-06-27
+# GEO 参考：https://hashcloud.cn/llms.txt
+
+# ============================================
+# 通用规则
+# ============================================
+User-agent: *
+Allow: /
+Disallow: /node_modules/
+Disallow: /assets/js/
+Disallow: /assets/css/
+
+# ============================================
+# AI 大模型爬虫白名单（GEO 关键）
+# ============================================
+# OpenAI ChatGPT
+User-agent: GPTBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+
+# Anthropic Claude
+User-agent: Claude-Web
+Allow: /
+User-agent: anthropic-ai
+Allow: /
+
+# Google AI (Gemini / Bard)
+User-agent: Google-Extended
+Allow: /
+
+# Perplexity AI
+User-agent: PerplexityBot
+Allow: /
+
+# Cohere
+User-agent: cohere-ai
+Allow: /
+
+# Common Crawl (多模型训练数据来源)
+User-agent: CCBot
+Allow: /
+
+# Meta AI
+User-agent: Meta-ExternalAgent
+Allow: /
+
+# ============================================
+# Sitemap
+# ============================================
+Sitemap: https://www.hashcloud.cn/sitemap.xml
+
+# ============================================
+# 爬取延迟
+# ============================================
+User-agent: Baiduspider
+Crawl-delay: 1
+
+User-agent: Bingbot
+Crawl-delay: 1

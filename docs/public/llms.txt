@@ -1,0 +1,38 @@
+# 哈希云图信息科技有限公司
+
+> 哈希云图（HashCloud）是一家位于中国山西省太原市的专业 AI 智能应用与 IT 解决方案服务商，专注大模型私有化部署、RAG 应用、数据中台、系统集成、网络安全与等保合规，为政企客户提供一站式数字化转型服务。
+
+## 核心页面
+- [首页](https://hashcloud.cn/): 哈希云图官网首页，展示公司全貌、核心服务、项目案例、客户评价与技术团队。
+- [定价方案](https://hashcloud.cn/pricing): 透明公开的五业务三档定价方案。AI应用、数据云服务、系统集成、软件开发、网络安全，基础版/专业版/企业版灵活选择，支持自由组合与定制报价。
+- [服务](https://hashcloud.cn/services): 五大核心业务详细说明 — AI智能应用、数据与云服务、系统集成运维、技术开发咨询、网络安全配套。
+- [案例](https://hashcloud.cn/projects): 已交付的标杆项目展示，覆盖政企信息化、金融等保、智慧校园、数据中台等领域。
+- [资讯](https://hashcloud.cn/blog): 技术博客与行业动态，分享 AI 应用、云计算、网络安全等技术文章。
+- [联系我们](https://hashcloud.cn/contact): 公司地址、联系方式与在线留言表单，欢迎业务咨询与技术合作。
+
+## 服务能力
+- [AI 智能应用](https://hashcloud.cn/services#ai): 大模型私有化部署、RAG 应用、智能客服系统、知识库问答、AI Agent 开发，支持 DeepSeek、通义千问、文心一言等主流大模型。
+- [数据与云服务](https://hashcloud.cn/services#data): 大数据分析、云计算部署、数据中台建设、商业智能 BI、实时流计算，深度集成阿里云、华为云、腾讯云。
+- [系统集成与运维](https://hashcloud.cn/services#integration): 系统集成、网络部署、7×24 运维监控、灾备方案、IT 资产管理，提供全生命周期运维保障。
+- [技术开发与咨询](https://hashcloud.cn/services#dev): 定制软件开发、IT 战略咨询、数字化转型规划、系统架构设计，技术栈覆盖 Java、Python、Vue、React、uni-app。
+- [网络安全与配套](https://hashcloud.cn/services#security): 等保合规、安全运维、渗透测试、安全设备部署、网络架构设计，基于零信任架构的纵深防护体系。
+
+## 公司信息
+- 公司全称：哈希云图信息科技有限公司
+- 公司简称：哈希云图（HashCloud）
+- 注册地址：中国山西省太原市小店区平阳路65号平阳景苑5号楼19层
+- 联系电话：0351-0000000
+- 电子邮箱：hashcloud@foxmail.com
+- 工作时间：周一至周五 9:00-18:00，周六 10:00-16:00
+- 服务区域：立足太原，服务全国
+
+## 技术能力
+- AI/大模型：DeepSeek、LangChain、RAG、AI Agent、智能客服、知识库问答
+- 数据与云：Flink、ClickHouse、数据中台、BI、云原生、Docker、Kubernetes
+- 开发栈：Java、Python、Vue 3、React、uni-app、Spring Cloud、Node.js
+- 安全能力：等保测评整改、渗透测试、应急响应、安全运维、零信任架构
+
+## 可选资源
+- [llms-full.txt](https://hashcloud.cn/llms-full.txt): 包含所有页面完整 Markdown 内容的扩展文件，供 AI 深度阅读。
+- [sitemap.xml](https://hashcloud.cn/sitemap.xml): 网站结构化的 XML 站点地图。
+- [robots.txt](https://hashcloud.cn/robots.txt): 爬虫访问规则与 AI 抓取许可声明。
