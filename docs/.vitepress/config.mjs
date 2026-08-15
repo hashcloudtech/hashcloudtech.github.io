@@ -112,7 +112,7 @@ export default defineConfig({
         },
         contactPoint: {
           '@type': 'ContactPoint',
-          telephone: '+86-351-0000000', // TODO: 替换为真实电话
+          telephone: '18523845416', // TODO: 替换为真实电话
           email: 'hashcloud@foxmail.com',
           contactType: '客户服务',
           areaServed: ['CN'],

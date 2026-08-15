@@ -37,7 +37,7 @@
               <i class="fas fa-phone"></i>
             </div>
             <h3>联系电话</h3>
-            <p><a href="tel:+863510000000" class="inherit-link">0351-0000000</a></p>
+            <p><a href="tel:18523845416" class="inherit-link">18523845416</a></p>
           </div>
         </div>
         <div class="col-lg-3 col-md-6 col-sm-12">

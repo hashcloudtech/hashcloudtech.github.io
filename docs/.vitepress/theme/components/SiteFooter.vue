@@ -62,7 +62,7 @@ function handleSubmit() {
             <div class="footer-contact-info">
               <ul class="footer-contact-list">
                 <li><span>地址:</span> 太原市小店区平阳路65号平阳景苑5号楼19层</li>
-                <li><span>电话:</span> <a href="tel:+863510000000" aria-label="联系电话">0351-0000000</a></li>
+                <li><span>电话:</span> <a href="tel:18523845416" aria-label="联系电话">18523845416</a></li>
                 <li><span>邮箱:</span> <a href="mailto:hashcloud@foxmail.com" aria-label="发送邮件">hashcloud@foxmail.com</a></li>
               </ul>
               <div class="footer-info-newsletter">
